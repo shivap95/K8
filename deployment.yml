@@ -21,7 +21,7 @@ spec:
     spec: 
       containers:
       - name: website
-        image: javeeds/jenkins0:0.8
+        image: shivap95/web1:0.3
         ports:
         - containerPort: 80
         
